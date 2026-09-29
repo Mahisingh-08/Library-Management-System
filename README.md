@@ -139,5 +139,7 @@ The Library Management System demonstrates how basic Python concepts can be used
 The project provides basic library operations through a command-line interface and was developed using concepts covered in the Python Essentials course.
 
 **Name- Mahi Singh**
+
 **Course- Python Essentials**
+
 **Project Name- Library Management System**
