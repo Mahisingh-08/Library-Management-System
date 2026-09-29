@@ -137,3 +137,7 @@ The project does not use a database or graphical user interface.
 The Library Management System demonstrates how basic Python concepts can be used to create a simple real-world application.
 
 The project provides basic library operations through a command-line interface and was developed using concepts covered in the Python Essentials course.
+
+**Name- Mahi Singh**
+**Course- Python Essentials**
+**Project Name- Library Management System**
